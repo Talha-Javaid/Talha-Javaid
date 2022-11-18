@@ -23,6 +23,7 @@
           📃 Smart Contracts
         
                 💠 Web3 Security
+                💠 Hybrid DAPPs
                 💠 NFTs
                 💠 ERC20 Tokens
                 💠 DAOs 
