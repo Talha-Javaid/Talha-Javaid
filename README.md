@@ -27,7 +27,7 @@
                 💠 NFTs
                 💠 ERC20 Tokens
                 💠 DAOs 
-                💠 Smart contracts execution on Ethereum ,Polygon ,celo and Flow Blockchain
+                💠 Smart contracts execution on Ethereum, Polygon, Tron Blockchain
                 💠 Chainlink Oracles
                 💠 Ceramic Network
 
@@ -39,8 +39,11 @@
                 
         🚀 Integration
        
-                💠 Web3 JS
-                💠 Ether JS
+                💠 Web3.JS
+                💠 Ether.JS
+                💠 Node.JS
+                💠 Express.JS
+                💠 MongoDB  
       
 ### As a Developer - My Builds ?
         
@@ -49,11 +52,8 @@
         ✅ NFT Initial Coin Offering
         ✅ NFT Minting Website
         ✅ NFT Minting DAO
-        ✅ Minimal Uniswap clone 
-         ⚛ Netflix 
-        
+        ✅ Minimal Uniswap clone         
         .. and a lot more 
-
 
 ### My Expertise include
 
@@ -66,9 +66,12 @@
         🟢 Ethereum testnets
         🟢 Wallets
         🟢 Javascript
-        🟢 Vanilla JS
+        🟢 Express.JS
         🟢 Code version control using Git
-        🟢 Visual Studio Code
+        🟢 Node.JS
+        🟢 MongoDB
+        🟢 Solana RPc Methods
+        🟢 Bitcoin
         and a lot more .. 
 
 If you want to hire , collaborate or simply want to get in touch,  
