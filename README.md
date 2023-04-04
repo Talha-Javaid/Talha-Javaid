@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-##### 💠 Hi there, I'm Talha Javaid, I am a
+:coin: Hi there, I'm Talha Javaid, I am a
 👨‍💻 Blockchain Developer <br>
 👨‍🏫 Smart Contract Programmer <br>
 💠 I am currently working on Blockchain based payment system and protocols.<br> 💠 I am currently learning Substrate.
