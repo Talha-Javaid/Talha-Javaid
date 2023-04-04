@@ -4,7 +4,7 @@
 👨‍💻 Blockchain Developer <br>
 👨‍🏫 Smart Contract Programmer <br>
 🪙 I am currently working on Blockchain based payment system and protocols.<br> ▶️ I am currently learning Substrate.<br>
-▶️ As an experienced developer, I have worked with a variety of blockchain platforms including Ethereum, Polygon, Tron, Solana, Bitcoin< BSC and Avalanche. I am specialized in developing smart contracts and decentralized applications (dApps) that are secure, scalable, and user-friendly.<br>
+▶️ As an experienced developer, I have worked with a variety of blockchain platforms including Ethereum, Polygon, Tron, Solana, Bitcoin, BSC and Avalanche. I am specialized in developing smart contracts and decentralized applications (dApps) that are secure, scalable, and user-friendly.<br>
 ▶️ My expertise also includes cryptography, consensus algorithms, and token economics. I love exploring new blockchain use cases and finding innovative ways to apply the technology to real-world problems.<br>
 🔥 You can find me contributing to open-source blockchain projects, attending blockchain conferences and meetups, and staying up-to-date with the latest developments in the industry. If you're interested in learning more about blockchain or have a project you'd like to collaborate on, feel free to reach out to me. Let's build the decentralized future together!<br>
 
